@@ -1,0 +1,38 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "keepNbtOfReagent": false,
+  "pedestalItems": [
+    {
+      "item": "allthemodium:allthemodium_block"
+    },
+    {
+      "item": "allthemodium:allthemodium_block"
+    },
+    {
+      "item": "allthemodium:allthemodium_block"
+    },
+    {
+      "item": "allthemodium:allthemodium_block"
+    },
+    {
+      "item": "ars_nouveau:source_gem_block"
+    },
+    {
+      "item": "ars_nouveau:source_gem_block"
+    },
+    {
+      "item": "ars_nouveau:source_gem_block"
+    },
+    {
+      "item": "ars_nouveau:source_gem_block"
+    }
+  ],
+  "reagent": {
+    "item": "ars_technica:source_motor"
+  },
+  "result": {
+    "count": 1,
+    "id": "create:creative_motor"
+  },
+  "sourceCost": 5000
+}

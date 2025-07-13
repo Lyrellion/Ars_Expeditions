@@ -1,0 +1,38 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "keepNbtOfReagent": false,
+  "pedestalItems": [
+    {
+      "item": "allthemodium:unobtainium_block"
+    },
+    {
+      "item": "allthemodium:unobtainium_block"
+    },
+    {
+      "item": "allthemodium:unobtainium_block"
+    },
+    {
+      "item": "allthemodium:unobtainium_block"
+    },
+    {
+      "item": "ars_nouveau:source_gem_block"
+    },
+    {
+      "item": "ars_nouveau:source_gem_block"
+    },
+    {
+      "item": "ars_nouveau:source_gem_block"
+    },
+    {
+      "item": "ars_nouveau:source_gem_block"
+    }
+  ],
+  "reagent": {
+    "item": "ars_nouveau:archmage_spell_book"
+  },
+  "result": {
+    "count": 1,
+    "id": "ars_nouveau:creative_spell_book"
+  },
+  "sourceCost": 5000
+}

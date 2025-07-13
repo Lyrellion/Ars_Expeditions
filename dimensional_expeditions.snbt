@@ -1,0 +1,473 @@
+{
+	autofocus_id: "724C2D04CC9CF161"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "dimensional_expeditions"
+	group: ""
+	icon: {
+		id: "aether:aether_portal_frame"
+	}
+	id: "2E7602A9D9FCFD1A"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:grass_block"
+			}
+			id: "724C2D04CC9CF161"
+			size: 2.0d
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "71E6F1C501411A52"
+				type: "dimension"
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "the_afterdark:teleport_catalyst"
+			}
+			id: "04FEF50F05174921"
+			tasks: [{
+				dimension: "the_afterdark:afterdark"
+				id: "0DA0E93CFE77738F"
+				type: "dimension"
+			}]
+			x: 2.357142857142861d
+			y: 2.9464285714285836d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "ars_monde_attuner:ars_monde_attuner"
+			}
+			id: "1F851C0C61345743"
+			tasks: [{
+				dimension: "ars_monde:ars_monde"
+				id: "68BCCEE925906EA2"
+				type: "dimension"
+			}]
+			x: 6.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "astral_dimension:astral_eye"
+			}
+			id: "2BDE3DB7C86A0E58"
+			tasks: [{
+				dimension: "astral_dimension:astral_dimension"
+				id: "153565726CAD941D"
+				type: "dimension"
+			}]
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "dimdungeons:block_portal_keyhole"
+			}
+			id: "462D492C012501C5"
+			tasks: [{
+				dimension: "dimdungeons:dungeon_dimension"
+				id: "23B34837A9E5EA0B"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "bygone:bygone_portal_frame_block"
+			}
+			id: "509E1EE9F6494818"
+			tasks: [{
+				dimension: "bygone:bygone"
+				id: "6EAD80732D79B807"
+				type: "dimension"
+			}]
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "ephemeral_dimensions:ed_sleep_soup"
+			}
+			id: "1FA902C56752286F"
+			max_completable_dependents: 1
+			tasks: [
+				{
+					dimension: "ephemeral_dimensions:basalt_deltas"
+					id: "5C75E47341B3CEE5"
+					type: "dimension"
+				}
+				{
+					dimension: "ephemeral_dimensions:black_and_white_dimension"
+					id: "2A2F43F80607D201"
+					type: "dimension"
+				}
+				{
+					dimension: "ephemeral_dimensions:dark_forest"
+					id: "1C46936E4A72E243"
+					type: "dimension"
+				}
+				{
+					dimension: "ephemeral_dimensions:deep_dark"
+					id: "71F0E178CDC4FF41"
+					type: "dimension"
+				}
+				{
+					dimension: "ephemeral_dimensions:ed_cake_dimension"
+					id: "03629408DA5B87BC"
+					type: "dimension"
+				}
+				{
+					dimension: "ephemeral_dimensions:ed_chocolat_dimension"
+					id: "6A79541D00187B5B"
+					type: "dimension"
+				}
+				{
+					dimension: "ephemeral_dimensions:frozen_world"
+					id: "00A7911631058510"
+					type: "dimension"
+				}
+				{
+					dimension: "ephemeral_dimensions:soul_sand_valley"
+					id: "07332F5A67A49051"
+					type: "dimension"
+				}
+			]
+			x: -5.4285714285714235d
+			y: -2.339285714285701d
+		}
+		{
+			icon: {
+				id: "iceandfire:dragon_skull_fire"
+			}
+			id: "50751E08AEDF0C13"
+			tasks: [{
+				dimension: "iceandfire:dread_land"
+				id: "2E3EE4AE5B4D2B22"
+				type: "dimension"
+			}]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "minecraft:blue_ice"
+			}
+			id: "6CB1C41265ECC1FC"
+			tasks: [{
+				dimension: "frostrealm:frostrealm"
+				id: "1BED94FF1EC3F618"
+				type: "dimension"
+			}]
+			x: -1.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "gaiadimension:keystone_block"
+			}
+			id: "20BDF3BE037CC67A"
+			tasks: [{
+				dimension: "gaiadimension:gaia_dimension"
+				id: "400B5CA50C177AEF"
+				type: "dimension"
+			}]
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "landsoficaria:greek_fire_grenade"
+			}
+			id: "399AEC754B4B9960"
+			tasks: [
+				{
+					dimension: "landsoficaria:icaria"
+					id: "0A4F914CDA54856E"
+					type: "dimension"
+				}
+				{
+					id: "757F9F6AAA4E5F57"
+					item: { count: 1, id: "landsoficaria:greek_fire_grenade" }
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "minecraft:diamond_pickaxe"
+			}
+			id: "7A72F2CD63ABC3F0"
+			tasks: [{
+				dimension: "allthemodium:mining"
+				id: "46DA53C9815BDE6A"
+				type: "dimension"
+			}]
+			x: -2.749999999999993d
+			y: -4.839285714285701d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "deeperdarker:heart_of_the_deep"
+			}
+			id: "21B47324FDC48549"
+			tasks: [{
+				dimension: "deeperdarker:otherside"
+				id: "00D2F05AC2D29A38"
+				type: "dimension"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "mahoutsukai:scroll_reality_marble"
+			}
+			id: "1D24033D4ADD7973"
+			max_completable_dependents: 1
+			tasks: [
+				{
+					dimension: "irons_spellbooks:pocket_dimension"
+					id: "60C52B6F20D6100A"
+					type: "dimension"
+				}
+				{
+					dimension: "mahoutsukai:reality_marble"
+					id: "6B24132C9BE15E30"
+					type: "dimension"
+				}
+			]
+			x: 2.2142857142857224d
+			y: -3.48214285714284d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "minecraft:sand"
+			}
+			id: "3E535503781B2028"
+			tasks: [{
+				dimension: "pharaohs_legacy__demension:saharah"
+				id: "181B3FA26ACD9061"
+				type: "dimension"
+			}]
+			x: -5.607142857142847d
+			y: 1.5178571428571601d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "eternal_starlight:book"
+			}
+			id: "5026E0E216FEC798"
+			tasks: [{
+				dimension: "eternal_starlight:starlight"
+				id: "31CBEE927D26A6F4"
+				type: "dimension"
+			}]
+			x: -4.249999999999993d
+			y: -3.874999999999986d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "test:candy_cane"
+			}
+			id: "0467F7820984EBF9"
+			tasks: [{
+				dimension: "test:sweetland"
+				id: "61A892D9FF834F95"
+				type: "dimension"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "aether:victory_medal"
+			}
+			id: "5892B28C88DCDB45"
+			tasks: [{
+				dimension: "aether:the_aether"
+				id: "6CA5AC9B5755CC79"
+				type: "dimension"
+			}]
+			x: -2.749999999999993d
+			y: 3.9821428571428754d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "allthemodium:teleport_pad"
+			}
+			id: "6B7B83088604F908"
+			tasks: [{
+				dimension: "allthemodium:the_beyond"
+				id: "6A95C85255501044"
+				type: "dimension"
+			}]
+			x: -1.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "minecraft:bee_nest"
+			}
+			id: "59CFBF942099CC2E"
+			tasks: [{
+				dimension: "the_bumblezone:the_bumblezone"
+				id: "66C81769C6E046AB"
+				type: "dimension"
+			}]
+			x: 3.3214285714285836d
+			y: -2.0535714285714093d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "the_cat_dimension:catnipitem"
+			}
+			id: "3C4F8578089116CD"
+			tasks: [{
+				dimension: "the_cat_dimension:the_cat_dimension"
+				id: "7EACBF1F95427774"
+				type: "dimension"
+			}]
+			x: 0.9285714285714377d
+			y: -4.73214285714284d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "minecraft:dragon_head"
+			}
+			id: "4E3C75EF763A748E"
+			tasks: [{
+				dimension: "minecraft:the_end"
+				id: "26A8D1AAA1D4A7AC"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "minecraft:piglin_head"
+			}
+			id: "55398D003428E41C"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "609EC56E6CD09DEA"
+				type: "dimension"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "allthemodium:piglich_heart"
+			}
+			id: "24FA87BBFFB3EB9B"
+			tasks: [{
+				dimension: "allthemodium:the_other"
+				id: "5BA5F9541486190E"
+				type: "dimension"
+			}]
+			x: -1.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "macabre:crystalized_blood"
+			}
+			id: "610020E4AADD43B6"
+			tasks: [{
+				dimension: "macabre:the_pit"
+				id: "3B389D8DF84FD054"
+				type: "dimension"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "starlandsdimension:the_starlands"
+			}
+			id: "7E6079689796E21F"
+			tasks: [{
+				dimension: "starlandsdimension:the_starlands"
+				id: "411213F3F41317E4"
+				type: "dimension"
+			}]
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "tropicraft:pineapple"
+			}
+			id: "689BD0A749F10FE9"
+			tasks: [{
+				dimension: "tropicraft:tropics"
+				id: "25E213488626988A"
+				type: "dimension"
+			}]
+			x: -8.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "minecraft:poppy"
+			}
+			id: "3623CD77EBF0871F"
+			tasks: [{
+				dimension: "twilightforest:twilight_forest"
+				id: "29E3C17486DCFA71"
+				type: "dimension"
+			}]
+			x: 3.4642857142857224d
+			y: 1.4821428571428754d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "undergarden:catalyst"
+			}
+			id: "638AC6E912A312E8"
+			tasks: [{
+				dimension: "undergarden:undergarden"
+				id: "2738CA259E4FF2E0"
+				type: "dimension"
+			}]
+			x: 0.892857142857153d
+			y: 4.01785714285716d
+		}
+	]
+}

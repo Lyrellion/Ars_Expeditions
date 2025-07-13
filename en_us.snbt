@@ -1,0 +1,298 @@
+{
+	chapter.09ACCF0B6E609BEC.title: "Ars Bounties"
+	chapter.1199E12E181998FA.title: "Ars Nouveau"
+	chapter.2E7602A9D9FCFD1A.title: "Dimensional Expeditions"
+	chapter.7D4B8C8D3F9193EC.title: "Ars Nouveau"
+	quest.003092B4C73C46CA.title: "Pufferfish"
+	quest.00D209EE7F90AA19.quest_desc: ["Placing a knife on an Arcane Pedestal or Arcane Platform adjacent to a Drygmy Henge with Ars Nouveau Flavors and Delight is installed will alter the drops the Drygmy collects from certain creatures."]
+	quest.00D209EE7F90AA19.title: "He's Got A Knife!"
+	quest.015BCC16A36B6BEA.title: "Jarring Demons"
+	quest.01B058EABA0A2A5C.title: "The Snozzberries taste like Snozzberries"
+	quest.02D529AD46E80B55.title: "Doctor Doolittle"
+	quest.0467F7820984EBF9.title: "Diabeetus"
+	quest.049E0A5287660784.quest_desc: ["Ars Controle adds the Portable Brazier Relay - a powerful tool that allows you to carry the effects of a relay on your person over great distances."]
+	quest.049E0A5287660784.title: "Rituals On the Go"
+	quest.04FEF50F05174921.title: "Who Turned Out the Lights?"
+	quest.050AB135E2B37A69.title: "Maximum Firepower"
+	quest.054506D8C13FF5EE.quest_desc: ["Archwood is the basic building block for Ars Nouveau, and is needed for crafting many of the items in the mod."]
+	quest.054506D8C13FF5EE.title: "Magic is in the Trees"
+	quest.08EC1A7FB30B7B5B.quest_desc: ["Tier 2 armor has improved thread slots compared to the tier 1 armor."]
+	quest.08EC1A7FB30B7B5B.title: "You're a Wizard, Harry"
+	quest.09CE9E62D7A1DAD3.quest_desc: ["All the Arcanist Gear adds advanced armor sets that significantly increase the power level of the wearer.  Originally created for use in All the Mods packs."]
+	quest.09CE9E62D7A1DAD3.title: "Beyond Mortal Ken"
+	quest.09EB9936EE2A9A2E.title: "The Fibers of Magic"
+	quest.0A7E36D783678446.quest_desc: ["With Ars Elemancy, you can further fuse dual element armor sets into a quad element set that grants the perks of all 4 Elemental armor sets."]
+	quest.0A7E36D783678446.title: "Mastering the Elements"
+	quest.0AB94EC8C95BB8AA.quest_desc: ["Ars Artillery adds decorative runestones that can be used as decorative blocks, or can be crafted into deployable turrets."]
+	quest.0AB94EC8C95BB8AA.title: "Decorative Stones"
+	quest.0BA8569B5B246712.quest_desc: ["The Mana Regen enchantment increases the rate of mana regeneration.  Higher levels of the enchantment boost the effect."]
+	quest.0BA8569B5B246712.title: "Mana Regen"
+	quest.0C20B8A6CE3C6CF7.title: "Highly Focused"
+	quest.0DFBD46BAAD4EE00.title: "Piglin"
+	quest.0E7D21B097BB9C80.quest_desc: ["Falseweave appears to be a solid block, but can be passed through by entities.  Clicking on Falseweave with another block type changes the appearance to the block used, making for easily concealed entrances and hidden passages."]
+	quest.0F25E184106ADCD9.title: "Bling Bling"
+	quest.0FC3F0D84BF1A750.title: "Cat"
+	quest.10256A459A0E52BD.title: "Where Do You Come From, Where Do You Go?"
+	quest.114E612C7635EA78.quest_desc: ["Tier 2 armor has improved thread slots compared to the tier 1 armor."]
+	quest.114E612C7635EA78.title: "You're a Wizard, Harry"
+	quest.124EFE2E60226E9E.quest_desc: ["Tier 3 armor has further improved thread slots compared to the lower tier armor."]
+	quest.124EFE2E60226E9E.title: "The Order of Merlin"
+	quest.14FB1FC7B924FD38.title: "Chicken"
+	quest.1526D52C228CD4C3.title: "Dual Personality"
+	quest.15DC87D0D6AE92DB.quest_desc: ["Ars Additions adds the Warp Index, which can be linked to a Storage Lectern to allow access to that Lectern's interface anywhere in the same dimension."]
+	quest.15DC87D0D6AE92DB.title: "Remote Library Access"
+	quest.1632869CE75F0BD3.title: "Woven Building Blocks"
+	quest.168491299F46ED9B.quest_desc: [
+		"The Reactive enchantment allows you to inscribe an Ars spell onto the item.  On armor the spell activates on any damage dealing event, while on any other item the spell will be cast when you swing the item.  "
+		""
+		"Higher levels of the enchantment increase the chance of the spell triggering, with each level adding a 25% chance."
+	]
+	quest.168491299F46ED9B.title: "Reactive"
+	quest.16E21667692BCED6.quest_desc: ["The Creative Spell Book gives the bearer access to ALL available glyphs and allows the user to cast spells without regards to available mana."]
+	quest.16E21667692BCED6.title: "PHENOMENAL. COSMIC. POWER."
+	quest.19239D5C48603227.quest_desc: ["Using a Ritual of Awakening adjacent to a Budding Amethyst Block will create an Amethyst Golem, that can then be dispelled (or killed) to acquire its charm.  These creatures can be used to generate an infinite supply of amethyst - which can be very useful when using Ars Nouveau."]
+	quest.19239D5C48603227.title: "The Hills Are Alive"
+	quest.1A964ECFBBA7457A.title: "Magical Writings"
+	quest.1AC2EA4BEEE79635.quest_desc: [
+		"Ars Additions adds the Spellweave enchantment, which allows you to add an Ars Thread slot to a piece of armor that does not already have one.  "
+		""
+		"The level of the enchantment determines the level of the Thread slot."
+	]
+	quest.1AC2EA4BEEE79635.title: "Spellweave"
+	quest.1B1EF5317D72B929.quest_desc: ["You can use the Enchanting Apparatus to craft a number of tools and weapons that can either be imbued with spells, or that can enhance your spells in some way.  See individual item descriptions for the specifics."]
+	quest.1B1EF5317D72B929.title: "Enchanter's Tools and Weapons"
+	quest.1B2CFCF3F32FA373.quest_desc: ["Skyweave is a solid block that has the appearance of the skybox."]
+	quest.1C4CC2079CB897B7.title: "Filter Glyphs"
+	quest.1CC6DB9ED1C30E01.title: "A Rock Solid Companion"
+	quest.1D24033D4ADD7973.title: "I've Got a Hole In My Pocket"
+	quest.1E5577E1A483EF79.quest_desc: ["The Repository Catalog provides a single access point for ALL repositories connected to it.  Especially useful for connecting a large number of repositories to a Storage Lectern."]
+	quest.1E5577E1A483EF79.title: "The Dewey Decimal System"
+	quest.1EDF73B1A4A93B5A.quest_desc: ["Tier 3 armor has further improved thread slots compared to the lower tier armor."]
+	quest.1EDF73B1A4A93B5A.title: "The Order of Merlin"
+	quest.1F1620969A62A0F6.title: "Putting Quill to Parchment"
+	quest.1F851C0C61345743.title: "Magical Forest"
+	quest.1FA902C56752286F.title: "Sweet Dreams Are Made of This"
+	quest.2089FF4B1AB11186.title: "I Do NOT Have a Drinking Problem"
+	quest.209B1D23A14BEE66.title: "Squirrel!"
+	quest.20BDF3BE037CC67A.title: "Ooh, Shiny!"
+	quest.21B47324FDC48549.title: "Must. Go. Deeper."
+	quest.228ACDF6CA06793E.title: "The Most Adorable Witch You'll Ever See"
+	quest.22C305A10772CACC.quest_desc: ["The Imbuement Chamber is used to infuse various items with magic - most importantly, converting raw amethyst or lapis into Source Gems and Source Gems into Essences.  Imbuement recipes do NOT consume the materials used for the infusion, except for the item in the chamber that is being converted."]
+	quest.22C305A10772CACC.title: "Magical Infusion"
+	quest.239325C09E0DDE68.title: "Mooshroom"
+	quest.23E6D57FD27D8B62.title: "Ultimate Bling"
+	quest.23FA58602E8039AD.quest_desc: ["Source Gems are a critical resource for Ars Nouveau, being used in many recipes directly or after being converted into Essences."]
+	quest.23FA58602E8039AD.title: "Solid Magic"
+	quest.24FA87BBFFB3EB9B.title: "And Now For Something Completely Different..."
+	quest.25B2DA7E4E384617.title: "Technomancy"
+	quest.26A7BBA0781BFEE8.quest_desc: ["Sorceror armor has the weakest defenses of the Ars armors, but has the best Thread slots for adding perks to the armor."]
+	quest.26A7BBA0781BFEE8.title: "Baby's First Sorceror Robes"
+	quest.28B8238A636AB88A.quest_desc: ["The Mage's Spell Book allows for casting spells containing Tier 1 and 2 glyphs."]
+	quest.296568D67A04A432.quest_desc: ["Upgrading an Ars Artillery turret will increase it's effectiveness and/or range."]
+	quest.296568D67A04A432.title: "Bringing Out the Big Guns"
+	quest.2B988F0799EE6671.title: "Everything, Everywhere, All At Once"
+	quest.2BDE3DB7C86A0E58.title: "Now We're Going Places"
+	quest.2C5AD3378D5882DD.quest_desc: ["Essences are required for many recipes in Ars Nouveau.  The base mod includes 7 essence types, and Ars Elemental adds the Anima Essence."]
+	quest.2C5AD3378D5882DD.title: "The Essence of Magic"
+	quest.2CC460C18D97FBF1.quest_desc: [
+		"Ars Elemental adds the Spell Reflection enchantment, which gives shields a chance to reflect spell projectiles."
+		""
+		"Higher levels of the enchantment increase the chance of succeeding."
+	]
+	quest.2CC460C18D97FBF1.title: "Spell Reflection"
+	quest.2D24F65BACFCC3BB.title: "The Penultimate Casting Tool"
+	quest.2E4730B6242DBEE5.title: "Allay"
+	quest.2E6F4FB9E1E33D9F.title: "Magical Tailoring"
+	quest.31750F80E93A032D.quest_desc: ["Ars Elemental adds the Soulbound enchantment, which prevents you from losing the enchanted item upon death."]
+	quest.31750F80E93A032D.title: "Soulbound"
+	quest.3299E0316702AC6D.quest_desc: ["GeOre Nouveau adds a variety of golem types that work like the Amethyst Golem, just with different block types."]
+	quest.3299E0316702AC6D.title: "Crystalline Resources"
+	quest.348D0D1AC8D72F21.quest_desc: [
+		"The Advanced Dominion Wand from Ars Additions and the Remote from Ars Controle are more advanced versions of the Dominion Wand that have additional options for usage that give greater control to the user."
+		""
+		"**NOTE:The Advanced Dominion Wand is currently broken**"
+	]
+	quest.3623CD77EBF0871F.title: "Peaceful Forest"
+	quest.366C6251217F177C.title: "Source From Potions"
+	quest.38091C2CF32583FD.title: "Magical Embroidery"
+	quest.38349F659EF9F1EA.title: "Warp 5, Engage"
+	quest.3855E025A47C05F4.title: "Villager"
+	quest.399AEC754B4B9960.title: "It's All Greek To Me"
+	quest.39DC47F7EA13C920.quest_desc: ["Battlemage armor has the strongest defenses of the Ars armors, but has the worst Thread slots for adding perks to the armor."]
+	quest.39DC47F7EA13C920.title: "Baby's First Battlemage Robes"
+	quest.3A24639AB82742ED.title: "It Can Even Make Electricity?"
+	quest.3AD6E55072B89EDF.quest_desc: ["The Archmage's Spell Book allows for casting spells containing up to tier 3 glyphs."]
+	quest.3C273BE2643FDF79.quest_desc: ["Ars Nouveau Flavors and Delight adds a number of recipes for food and drinks based on Ars Nouveau materials."]
+	quest.3C273BE2643FDF79.title: "J-E-L-L-O"
+	quest.3C4F8578089116CD.title: "Meow."
+	quest.3E526DB26318125D.quest_desc: ["Ars Additions's Warp Index can be upgraded to a Stabilized Warp Index, which allows for crossdimensional access to the linked Storage Lectern."]
+	quest.3E526DB26318125D.title: "REALLY Remote Library Access"
+	quest.3E535503781B2028.title: "It's Getting Hot In Here"
+	quest.3E97790D1AF98668.quest_desc: ["Naturally spawned archtrees can spawn with archfruits growing on them like cocoa beans do on jungle trees.  They can be farmed in the same manner that cocoa beans can."]
+	quest.3E97790D1AF98668.title: "Magical Fruit"
+	quest.3EC3807A8070C35A.quest_desc: ["You will need an Ars Monde Attuner to enter the Ars Monde dimension - a realm filled with archtrees and amethyst.  But be warned, you will need to craft a seperate item to get back once you are there..."]
+	quest.3EC3807A8070C35A.title: "The Ars Dimension"
+	quest.3F0367317BC660EC.title: "Tablet of Conjure Island"
+	quest.3F8D7FB49C64D114.title: "Lightning"
+	quest.3FF6A07002A219A2.quest_desc: ["The Shady Wizard is a new villager type that sells Ars Nouveau related items.  The Arcane Core serves as the job block for the Shady Wizard."]
+	quest.3FF6A07002A219A2.title: "Seems a Bit Shady"
+	quest.401EAB6831947FF7.title: "Storing Source"
+	quest.405750E6B63DC5FB.title: "Say Hello To My Little Friend"
+	quest.41B4AF97C0AF3DFB.quest_desc: ["Ars Additions adds craftable Charms with a variety of effects.  Each Charm has a specific number of charges before it is expended and must be recharged once these charges are expended."]
+	quest.41B4AF97C0AF3DFB.title: "Charmed, I'm Sure"
+	quest.430605F5F36CFF88.quest_desc: ["With Ars Energistique installed, the Amethyst Golem can work with Certus Quartz budding blocks in addition to their usual Amethyst blocks."]
+	quest.430605F5F36CFF88.title: "Multitalented"
+	quest.4320EE2B748C9EC6.quest_desc: ["Magebloom seeds are enchanted from \"normal\" seeds in an Enchanting Apparatus."]
+	quest.4320EE2B748C9EC6.title: "Homegrown Magic"
+	quest.4355C407D939EE95.quest_desc: ["Ars Elemancy adds dual essences that can be used to craft new gear that combines the powers of multiple elements."]
+	quest.4355C407D939EE95.title: "Advanced Essences"
+	quest.449F310FBA5FBA9E.title: "Now We're Cooking With Magic"
+	quest.44EFE703408A1778.title: "Frog"
+	quest.458C9A37BA2DC529.title: "Cow"
+	quest.462D492C012501C5.title: "Not Enough Dimensions"
+	quest.464719B7863E474C.title: "Wither"
+	quest.4673FECAE67CCF06.quest_desc: ["Ars Artillery adds upgradable deployable turrets that will fire on hostile creatures in range.  Each magic school has an associated turret with specific effects based on the school."]
+	quest.4673FECAE67CCF06.title: "Set Up A Perimeter..."
+	quest.46CF3F4155D0FAD4.quest_desc: ["Caster Tomes contain premade spells, designed by Ars developers and contributors, to showcase some of the possibilities of what you can do with Ars magic.  These Tomes allow you to cast the spell contained within at half the usual mana cost, or your full mana bar, whichever is lower."]
+	quest.4790124DEE3DCCE2.title: "Speak Softly, And Carry A Big Stick"
+	quest.4795B326C126582C.quest_desc: ["All the Arcanist Gear adds advanced spell books that allow for more than 10 glyphs to be used in a spell, as well as adding additional perks to the player."]
+	quest.4795B326C126582C.title: "I Have The Power"
+	quest.47EE1094FCD0E9BC.quest_desc: ["The Novice Spell Book allows for casting spells containing Tier 1 glyphs."]
+	quest.47F546DBED3E7215.quest_desc: ["Arcanist armor has a balance of defense vs quality of Thread slots used for adding perks to the armor."]
+	quest.47F546DBED3E7215.title: "Baby's First Arcanist Robes"
+	quest.484520564B07E8AA.title: "It's Bigger On the Inside"
+	quest.4B8D5DF9F46E6BC6.quest_desc: [
+		"Linking the Storage Lectern to inventories allows all linked inventories to be accessed from a single interface via the lectern.  Each Bookwyrm added to the Lectern allows for 8 inventories to be attached.  Especially useful when used in conjunction with blocks like Drawer Controllers or Repository Catalogs - which count as ONE inventory regardless of how many drawers/repositories are attached to them."
+		""
+		"Secondary lecterns can also be linked to the main lectern to allow multiple access points to the inventories."
+	]
+	quest.4B8D5DF9F46E6BC6.title: "Magical Storage Indexing"
+	quest.4E3C75EF763A748E.title: "An End Is Just a New Beginning"
+	quest.4EAAF46CA31B68D4.quest_desc: ["The Mana Boost enchantment adds to your maximum mana.  Higher levels of the enchantment boost the effect."]
+	quest.4EAAF46CA31B68D4.title: "Mana Boost"
+	quest.4EEE3C495A036482.title: "Etch-a-Sketch"
+	quest.4F23898F03F9D217.title: "Ultimate Focus"
+	quest.4F4AA8125475EC17.quest_desc: ["Source Relays are used to transport Source over long distances.  Advanced relays have specialized usages such as sending to multiple locations or pulling from all nearby Source Jars at once."]
+	quest.4F4AA8125475EC17.title: "Transporting Source"
+	quest.4FBAEA8A51FE97A2.quest_desc: ["Ars Elemancy also adds quad element gear, which requires these shards in order to craft."]
+	quest.4FBAEA8A51FE97A2.title: "The Ultimate Essence"
+	quest.4FCF273732E1FFEF.title: "Sniffer"
+	quest.5026E0E216FEC798.title: "Aim For the Stars"
+	quest.50751E08AEDF0C13.title: "Here There Be Dragons"
+	quest.509E1EE9F6494818.title: "Living In the Past"
+	quest.51CDED1C28400912.title: "How'd That Tree Get Up There, Anyway?"
+	quest.522A2F390F1EDAAB.title: "Snow Golem"
+	quest.543677EB8CD24C17.title: "Sheep"
+	quest.5498D0E1863A1678.quest_desc: ["Mirrorweave is a solid block whose appearance can be changed by clicking on it with another block."]
+	quest.55398D003428E41C.title: "Hell Is Other Piglins"
+	quest.55EA6E1A243B7C2D.quest_desc: ["All the Arcanist Gear adds advanced armor sets that significantly increase the power level of the wearer.  Originally created for use in All the Mods packs."]
+	quest.55EA6E1A243B7C2D.title: "Wakanda Forever?"
+	quest.56A9394703B9C69B.quest_desc: ["Imbued Spell Parchments - added by Ars Additions - can be used as single use scrolls that allow the user to cast a spell once.  Useful for giving a spell to your non-wizard friends to use."]
+	quest.56B6642268A9BA10.quest_desc: ["Tier 2 armor has improved thread slots compared to the tier 1 armor."]
+	quest.56B6642268A9BA10.title: "You're a Wizard, Harry"
+	quest.56C65EDEEAB7D170.title: "Itty, Bitty Living Space"
+	quest.58AD7BF7F0D9A9B4.title: "Choosing a Focus"
+	quest.597936AABC51BE5A.title: "Panda"
+	quest.59CFBF942099CC2E.title: "Bzzzz"
+	quest.5A2108390B2391CF.title: "Player Dummy"
+	quest.5A472270DE46C91A.quest_desc: ["Weald Walkers spawn naturally in Archwood Forests, and can also be created by using a Ritual of Awakening adjacent to an Archwood Tree."]
+	quest.5A472270DE46C91A.title: "Guardians of the Forest"
+	quest.5A5E694ABDDE583C.quest_desc: ["The Enchanting Apparatus is used to create enchanted items and to add enchantments to items.  You must place the Enchanting Apparatus on top of an Arcane Core for it to function.  Ingredients in Apparatus recipes will be consumed in the enchanting process.  Refer to the Tattered Tome and/or JEI/EMI for details."]
+	quest.5A5E694ABDDE583C.title: "It's a Kind of Magic"
+	quest.5B6EAB885601EED1.title: "Ender Dragon"
+	quest.5D641B5550A03EFC.quest_desc: ["Arcane Pedestals and Platforms are single item inventories that are used for many things in Ars Nouveau."]
+	quest.5D641B5550A03EFC.title: "A Place for Everything, and Everything In Its Place"
+	quest.5F56F43DC5FBF2B4.title: "Blaze"
+	quest.610020E4AADD43B6.title: "This Seems Like a Bad Idea..."
+	quest.61117CD9FFA80AC1.quest_desc: ["Ars Additions adds the Wayfinder - a way to use Ars to locate structures through the use of a Ritual Brazier."]
+	quest.61117CD9FFA80AC1.title: "We Know the Way"
+	quest.6125D68B9ADEA4CE.title: "Armadillo"
+	quest.6179C0E1DE6927EC.title: "Aromatherapy"
+	quest.618A889A1B8D6D6B.quest_desc: ["The Volcanic Sourcelink generates source from consuming combustible items.  Be warned, it will convert nearby stone into lava over time."]
+	quest.618A889A1B8D6D6B.title: "Source From Fire"
+	quest.630269E3D6823DC1.quest_desc: ["Welcome to the magical world of Ars Nouveau.  Here you will find quests to guide you through Ars Nouveau and all of its addons.  Be aware that not EVERYthing is included in these quests, so be sure to poke around and see what else there is to discover!"]
+	quest.630269E3D6823DC1.title: "So You Want to Be a Wizard?"
+	quest.6314FAB8A07557C5.title: "Here There Be Monsters"
+	quest.638AC6E912A312E8.title: "Journey to the Center of the Earth"
+	quest.63FE55B69AD12F5F.title: "Its Bark Is Worse Than Its Bite"
+	quest.64F31BDC55923304.quest_desc: ["Spell Turrets can be imbued with a spell that they will then cast whenever activated by a redstone signal.  They will consume Source from nearby jars to cast this spell."]
+	quest.64F31BDC55923304.title: "Magical Automation"
+	quest.6602B879C5475958.quest_desc: ["Ritual Braziers are used for running in-place magical effects.  Some rituals are one shot occurences, while others can be kept active by providing Source nearby.  Some Rituals can also be modified or empowered by adding certain items before activating the ritual.  Refer to the specific Ritual Tablet for the details of each ritual."]
+	quest.6602B879C5475958.title: "Ritualistic Behavior"
+	quest.66FC042D6B378D7E.quest_desc: ["With Ars Elemental you can upgrade a Tier 3 piece of any of the 3 basic armor types into a Tier 4 Elemental (or Technomancer) piece.  Tier 4 armor all has the same defense and Thread slots, regardless of which type of armor was used to create it.  Ars Technica adds the Technomancer set to the tier 4 options."]
+	quest.66FC042D6B378D7E.title: "Elemental Specialization"
+	quest.6726A0E78C1E0CBB.quest_desc: ["Repositories are storage blocks that have the capacity of a double chest in a single block.  You can tell how full a given repository is by the amount of books on the shelves."]
+	quest.6726A0E78C1E0CBB.title: "Library Storage"
+	quest.67AD070A2E047438.title: "Power Overwhelming"
+	quest.689BD0A749F10FE9.title: "Wasting Away Again in Margaritaville"
+	quest.6ADEED2F0E53BD6F.quest_desc: ["The Agronomic Sourcelink is the most basic sourcelink and gives source from natural growth events around it - and while it is enough to get started at the beginning, you will want to upgrade to a more efficient sourcelink fairly soon."]
+	quest.6ADEED2F0E53BD6F.title: "Source From Plants"
+	quest.6B181D35930FC90A.quest_desc: ["Starbunclemania adds the fluid sourcelink, which generates source from nearby fluid."]
+	quest.6B181D35930FC90A.title: "Source From Water"
+	quest.6B7B83088604F908.title: "To Infinity, and..."
+	quest.6C0C48ACD114E464.quest_desc: ["Ghostweave is a solid block that can be made invisible by casting the Invisibility glyph on it."]
+	quest.6CB1C41265ECC1FC.title: "Hope You Brought a Jacket"
+	quest.6ED893049550F1DD.quest_desc: ["There are a wide variety of unique enchanted items that can be crafted using the Enchanting Apparatus in Ars Nouveau and its addons.  Try making these items - and more.  Refer to the Tattered Tome for specifics on the effects of each item."]
+	quest.70A9C631A4F447F1.quest_desc: ["The Mycelial Sourcelink converts edible items into source.  It gives extra source from magical foods, including sourceberries and archfruits, and is efficient enough to carry you into the late game with a proper setup."]
+	quest.70A9C631A4F447F1.title: "Source From Food"
+	quest.7179D1969383B6B4.title: "Knowledge is Power"
+	quest.724C2D04CC9CF161.title: "Well THAT Was Easy"
+	quest.73EF95EC2BEC5B5B.quest_desc: ["The Vitalic Sourcelink generates source from the death of nearby mobs.  Used in conjunction with a mob farm, it can be a very effective generator of source."]
+	quest.73EF95EC2BEC5B5B.title: "Source From Life"
+	quest.765A96CC3E6CFF7A.title: "Fancy Jewelry"
+	quest.77BF4C9E32ECA35F.title: "Magic Binding"
+	quest.787AB176446A7A69.title: "Volatile Mixture"
+	quest.7886FE4AB0792290.quest_desc: ["Tier 3 armor has further improved thread slots compared to the lower tier armor."]
+	quest.7886FE4AB0792290.title: "The Order of Merlin"
+	quest.797162271B7510A2.title: "Prisoners with Jobs"
+	quest.79DB72A92AEB4C82.title: "One With Nature"
+	quest.7A198D4E10938020.quest_desc: ["Sourcestone is a useful material for building more durable buildings, and is needed for certain recipes - as well as for constructing permanent Warp Portals."]
+	quest.7A198D4E10938020.title: "Magic Is In the Stones"
+	quest.7A2CAD8D814AE958.quest_desc: ["Ars Elemancy adds the ability to fuse Tier 4 Elemental sets into dual element armor that grants the perks of both elements used to craft it."]
+	quest.7A2CAD8D814AE958.title: "Double Major"
+	quest.7A72F2CD63ABC3F0.title: "Hi Ho, Hi Ho, It's Off to Work We Go"
+	quest.7AE99B82FF120DD6.quest_desc: ["The Ritual Brazier Relay can be linked to one (or more) nearby rituals, allowing for remote automation of a ritual site or for having multiple rituals active in one spot."]
+	quest.7AE99B82FF120DD6.title: "Remote Rituals"
+	quest.7B9998A64A9513C1.quest_desc: ["All the Arcanist Gear adds advanced armor sets that significantly increase the power level of the wearer.  Originally created for use in All the Mods packs."]
+	quest.7B9998A64A9513C1.title: "Sourceror Supreme"
+	quest.7BD5AFFF91797439.title: "Breeze"
+	quest.7E6079689796E21F.title: "Twinkle, Twinkle"
+	quest.7EB7761B35A066A1.title: "Black Magic Woman"
+	quest.7FB3016482393FCD.title: "Bling"
+	quest.7FFABEA185D6D7AE.title: "Under the Sea"
+	task.0147DE63154A66AB.title: "Elemental Leggings"
+	task.01A45CC42E37CC37.title: "Elemancy Hat"
+	task.0251BB2DF35D6C74.title: "Basic Bangles"
+	task.030AFF783892206A.title: "Ars Enchanting"
+	task.03BE09C507B44966.title: "Any Caster Tome"
+	task.048AADF4A7A155C8.title: "Any Knife"
+	task.06DF28B946D89990.title: "Find an Arcane Library in an Archwood Forest"
+	task.077CEE826F80542D.title: "Any Flower"
+	task.085EBE7AFD1E17E2.title: "Any Archwood Bark"
+	task.0BB43F834E7C2086.title: "Elemental Robes"
+	task.0F541C8FCC1B8433.title: "Any Filter Glyph"
+	task.11EA8422A32108C0.title: "Enchanter's Tools & Weapons"
+	task.13A4CE1ADE30931A.title: "Basic Foci"
+	task.1574EABD58AF3171.title: "Elemancy Leggings"
+	task.1701EE56179FE14C.title: "Budding Certus Blocks"
+	task.188106718B298BE4.title: "Craft an Ars Jelly dish"
+	task.1BD8368AF3E9B3BE.title: "Dual Bangles"
+	task.203974970E261ABA.title: "Find a Nexus Tower"
+	task.239FEDC8511DCD72.title: "Any Mossy Cobblestone"
+	task.2B68038D0DA410C1.title: "Obtain an Archwood Log"
+	task.3709F7C1B779094E.title: "Elemental Boots"
+	task.3E6E9BFBFF613E6C.title: "Dual Foci"
+	task.3FDA45EA0CC3AA05.title: "Any Turret Crate"
+	task.46AFB93D3DE3057E.title: "Encounter a Shady Wizard villager"
+	task.5188C9D6A45B10D0.title: "Elemancy Boots"
+	task.563CE038FBBD2E33.title: "Advanced Wands"
+	task.5CAE88AC1F068094.title: "Find a Wilden Den (any type)"
+	task.5E4AF2A936E05EF0.title: "Any Ars Artillery Runestone"
+	task.6391755BA5520F7E.title: "Elemental Hat"
+	task.6BA7D0A9920106CE.title: "Advanced Foci"
+	task.6D24C4EF0D0B5153.title: "Golem Charms"
+	task.776B7D57FAE5B381.title: "Find a Ruined Portal"
+	task.786001B1ACE554A4.title: "Elemancy Robes"
+	task.7BD075D40F916A30.title: "Tablet of Conjure Island"
+	task.7CAD343C217CB25F.title: "Enchanted Items"
+}
