@@ -1269,15 +1269,15 @@
 			y: 4.0d
 		}
 		{
-			dependencies: ["4F4AA8125475EC17"]
+			dependencies: ["3A24639AB82742ED"]
 			id: "37BDDFBD67E5F90F"
 			tasks: [{
 				id: "0A260592A0AD42EE"
 				item: { count: 1, id: "arseng:source_storage_cell_1k" }
 				type: "item"
 			}]
-			x: -20.5d
-			y: 5.5d
+			x: -21.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["401EAB6831947FF7"]
@@ -3132,7 +3132,7 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["3A24639AB82742ED"]
+			dependencies: ["4F4AA8125475EC17"]
 			id: "25B2DA7E4E384617"
 			tasks: [{
 				id: "5080A86B550D5965"
@@ -3140,7 +3140,7 @@
 				type: "item"
 			}]
 			x: -20.5d
-			y: 2.0d
+			y: 5.5d
 		}
 		{
 			id: "756868A082A10A8F"

@@ -469,5 +469,61 @@
 			x: 0.892857142857153d
 			y: 4.01785714285716d
 		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			id: "0161BD488B34C6D4"
+			tasks: [{
+				dimension: "bottomless_remastered:the_bottomless"
+				icon: {
+					id: "bottomless_remastered:bottomless_portal_frame"
+				}
+				id: "7879B3D0B20F2B2C"
+				type: "dimension"
+			}]
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			id: "2AB56347A2A3F63C"
+			tasks: [{
+				dimension: "bottomless_remastered:the_shadeless"
+				icon: {
+					id: "bottomless_remastered:shadeless_portal_frame"
+				}
+				id: "63171A22AFB037B2"
+				type: "dimension"
+			}]
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			id: "54A374EC3B6BB7A1"
+			tasks: [{
+				dimension: "bottomless_remastered:the_enchantless"
+				icon: {
+					id: "bottomless_remastered:enchanted_portal_frame"
+				}
+				id: "1CA4A26EC6C7856D"
+				type: "dimension"
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["724C2D04CC9CF161"]
+			id: "6BB9D68A75A8E9ED"
+			tasks: [{
+				dimension: "bottomless_remastered:the_expless"
+				icon: {
+					id: "bottomless_remastered:experience_portal_frame"
+				}
+				id: "4240FC1601183BDD"
+				type: "dimension"
+			}]
+			x: -3.0d
+			y: -3.5d
+		}
 	]
 }
