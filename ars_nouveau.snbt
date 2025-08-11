@@ -62,6 +62,15 @@
 		{
 			dependencies: ["22C305A10772CACC"]
 			id: "23FA58602E8039AD"
+			rewards: [{
+				count: 64
+				id: "127201444C1211A6"
+				item: {
+					count: 1
+					id: "ars_nouveau:source_gem"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "0CD32002423B6021"
 				item: { count: 1, id: "ars_nouveau:source_gem" }
@@ -73,6 +82,15 @@
 		{
 			dependencies: ["23FA58602E8039AD"]
 			id: "7A198D4E10938020"
+			rewards: [{
+				count: 64
+				id: "7DE65561F6F71160"
+				item: {
+					count: 1
+					id: "ars_nouveau:sourcestone"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "500A9DAC4DF66B62"
 				item: { count: 1, id: "ars_nouveau:sourcestone" }
@@ -161,6 +179,15 @@
 		{
 			dependencies: ["1A964ECFBBA7457A"]
 			id: "28B8238A636AB88A"
+			rewards: [{
+				count: 4
+				id: "6B87964708B13247"
+				item: {
+					count: 1
+					id: "ars_additions:lost_codex_entry"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "306BBA18FEB80101"
 				item: { count: 1, id: "ars_nouveau:apprentice_spell_book" }
@@ -172,6 +199,15 @@
 		{
 			dependencies: ["1A964ECFBBA7457A"]
 			id: "47EE1094FCD0E9BC"
+			rewards: [{
+				count: 4
+				id: "19001EBDBBDAF576"
+				item: {
+					count: 1
+					id: "ars_additions:codex_entry"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3B64F811D73D1BB1"
 				item: { count: 1, id: "ars_nouveau:novice_spell_book" }
@@ -183,6 +219,15 @@
 		{
 			dependencies: ["1A964ECFBBA7457A"]
 			id: "3AD6E55072B89EDF"
+			rewards: [{
+				count: 2
+				id: "297E6D26909599A1"
+				item: {
+					count: 1
+					id: "ars_additions:ancient_codex_entry"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "6153ABF871547151"
 				item: { count: 1, id: "ars_nouveau:archmage_spell_book" }
@@ -231,6 +276,11 @@
 			dependencies: ["67AD070A2E047438"]
 			id: "16E21667692BCED6"
 			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "33BC1D733B4C769E"
+				type: "choice"
+			}]
 			tasks: [{
 				id: "5AD7B03EC49F64B4"
 				item: { count: 1, id: "allthearcanistgear:creative_spell_book" }
@@ -356,6 +406,80 @@
 		{
 			dependencies: ["23FA58602E8039AD"]
 			id: "2C5AD3378D5882DD"
+			rewards: [
+				{
+					count: 8
+					id: "4C77D1BAB33467B2"
+					item: {
+						count: 1
+						id: "ars_nouveau:abjuration_essence"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "7A989442BD950996"
+					item: {
+						count: 1
+						id: "ars_nouveau:manipulation_essence"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "28E8D5A3FE9E09D1"
+					item: {
+						count: 1
+						id: "ars_nouveau:conjuration_essence"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "527BEA5D1EB64E33"
+					item: {
+						count: 1
+						id: "ars_nouveau:air_essence"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "4C4BAA2ED3144A1B"
+					item: {
+						count: 1
+						id: "ars_nouveau:fire_essence"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "212D4303C35927A7"
+					item: {
+						count: 1
+						id: "ars_nouveau:water_essence"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "43D4D1EBC7A4867B"
+					item: {
+						count: 1
+						id: "ars_nouveau:earth_essence"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "242EB4DC81487FF8"
+					item: {
+						count: 1
+						id: "ars_elemental:anima_essence"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "66C78F35A2C23ED0"
@@ -2182,6 +2306,62 @@
 		{
 			dependencies: ["2C5AD3378D5882DD"]
 			id: "4355C407D939EE95"
+			rewards: [
+				{
+					count: 4
+					id: "24BB7123231F8019"
+					item: {
+						count: 1
+						id: "ars_elemancy:tempest_essence"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "257D1B693D3D0062"
+					item: {
+						count: 1
+						id: "ars_elemancy:silt_essence"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "24666FFB27EC8531"
+					item: {
+						count: 1
+						id: "ars_elemancy:mire_essence"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "62462008138EEC5A"
+					item: {
+						count: 1
+						id: "ars_elemancy:lava_essence"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "70B56A560ACF1833"
+					item: {
+						count: 1
+						id: "ars_elemancy:cinder_essence"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "65BFA7143FDB95F0"
+					item: {
+						count: 1
+						id: "ars_elemancy:vapor_essence"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "132398A4FCB63C6C"
@@ -2220,6 +2400,15 @@
 		{
 			dependencies: ["4355C407D939EE95"]
 			id: "4FBAEA8A51FE97A2"
+			rewards: [{
+				count: 2
+				id: "01E638614AE39F69"
+				item: {
+					count: 1
+					id: "ars_elemancy:elemancer_essence"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "579D2086517B2657"
 				item: { count: 1, id: "ars_elemancy:elemancer_essence" }
@@ -2304,6 +2493,7 @@
 			dependencies: ["7A198D4E10938020"]
 			id: "0AB94EC8C95BB8AA"
 			tasks: [{
+				count: 16L
 				id: "5E4AF2A936E05EF0"
 				item: { components: { "ftbfiltersystem:filter": "or(item(ars_artillery:firestone)item(ars_artillery:airstone)item(ars_artillery:waterstone)item(ars_artillery:earthstone)item(ars_artillery:abjurationstone)item(ars_artillery:conjurationstone)item(ars_artillery:manipulationstone))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
@@ -2948,6 +3138,11 @@
 		{
 			dependencies: ["55EA6E1A243B7C2D"]
 			id: "7B9998A64A9513C1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "05CC897B4B831A4E"
+				type: "choice"
+			}]
 			tasks: [
 				{
 					id: "0CB63B4566EC4ECB"
@@ -3156,6 +3351,15 @@
 		{
 			dependencies: ["09EB9936EE2A9A2E"]
 			id: "38091C2CF32583FD"
+			rewards: [{
+				count: 5
+				id: "7E6DBBDE5679E803"
+				item: {
+					count: 1
+					id: "ars_nouveau:blank_thread"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2916AB84A9BE9815"
 				item: { count: 1, id: "ars_nouveau:blank_thread" }
@@ -5128,6 +5332,15 @@
 		{
 			dependencies: ["1632869CE75F0BD3"]
 			id: "0E7D21B097BB9C80"
+			rewards: [{
+				count: 16
+				id: "2597B7106D3BA98C"
+				item: {
+					count: 1
+					id: "ars_nouveau:falseweave"
+				}
+				type: "item"
+			}]
 			shape: "diamond"
 			size: 0.75d
 			tasks: [{
@@ -5141,6 +5354,15 @@
 		{
 			dependencies: ["1632869CE75F0BD3"]
 			id: "1B2CFCF3F32FA373"
+			rewards: [{
+				count: 16
+				id: "727B3A2FF9AB7F7B"
+				item: {
+					count: 1
+					id: "ars_nouveau:sky_block"
+				}
+				type: "item"
+			}]
 			shape: "diamond"
 			size: 0.75d
 			tasks: [{
@@ -5154,6 +5376,15 @@
 		{
 			dependencies: ["1632869CE75F0BD3"]
 			id: "6C0C48ACD114E464"
+			rewards: [{
+				count: 16
+				id: "5E3280F5550BDED1"
+				item: {
+					count: 1
+					id: "ars_nouveau:ghostweave"
+				}
+				type: "item"
+			}]
 			shape: "diamond"
 			size: 0.75d
 			tasks: [{
@@ -5167,6 +5398,15 @@
 		{
 			dependencies: ["1632869CE75F0BD3"]
 			id: "5498D0E1863A1678"
+			rewards: [{
+				count: 16
+				id: "26926455B68AD527"
+				item: {
+					count: 1
+					id: "ars_nouveau:mirrorweave"
+				}
+				type: "item"
+			}]
 			shape: "diamond"
 			size: 0.75d
 			tasks: [{
@@ -5459,8 +5699,8 @@
 				to_observe: "ars_nouveau:shady_wizard"
 				type: "observation"
 			}]
-			x: -17.0d
-			y: 5.5d
+			x: -14.0d
+			y: 6.5d
 		}
 		{
 			id: "05FD71E2D3B3077B"
@@ -5469,8 +5709,8 @@
 				item: { count: 1, id: "ars_nouveau:item_detector" }
 				type: "item"
 			}]
-			x: -15.0d
-			y: 5.5d
+			x: -16.0d
+			y: 6.5d
 		}
 		{
 			id: "597936AABC51BE5A"
@@ -6202,6 +6442,326 @@
 			}]
 			x: -14.5d
 			y: -11.25d
+		}
+		{
+			dependencies: [
+				"0FC3F0D84BF1A750"
+				"003092B4C73C46CA"
+				"5B6EAB885601EED1"
+				"3855E025A47C05F4"
+				"5F56F43DC5FBF2B4"
+				"597936AABC51BE5A"
+				"7BD5AFFF91797439"
+				"464719B7863E474C"
+				"0DFBD46BAAD4EE00"
+				"3F8D7FB49C64D114"
+				"6125D68B9ADEA4CE"
+				"458C9A37BA2DC529"
+				"522A2F390F1EDAAB"
+				"2E4730B6242DBEE5"
+				"44EFE703408A1778"
+				"4FCF273732E1FFEF"
+				"239325C09E0DDE68"
+				"5A2108390B2391CF"
+				"14FB1FC7B924FD38"
+				"543677EB8CD24C17"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "7CD061A0871EFAAF"
+			tasks: [{
+				id: "6DA858430332C673"
+				type: "checkmark"
+			}]
+			x: -5.5d
+			y: 13.5d
+		}
+		{
+			dependencies: [
+				"27FC243C8DD81087"
+				"3F031758E9DBE675"
+				"2325643A60A80702"
+				"099930B15AD422D8"
+				"110FE720F213ED90"
+				"6B3D7F9F6CA4BF81"
+				"74AE4AB278A4994F"
+				"7ADA6CCBDDC17E25"
+				"33A0F7E7509C5AFD"
+				"0F27872E913CF71B"
+				"5A8CAAEEFBFC7253"
+				"65F719D02E8139B3"
+				"55351064755B3A8D"
+				"47E9AAF0107E4E5C"
+				"1EEB12CA1BA87A96"
+				"1EADEC9DA9A532FE"
+				"443213643FDEEC40"
+				"3A51B4E044BCE047"
+				"2CECA37816AF56C0"
+				"6AC04BF8DD5879B4"
+				"36D5E88756A67ACC"
+				"7559BBFFA68B2ED1"
+				"12BE87F716A7B714"
+				"258101D6DAE05F16"
+				"42B2F03DD0DBB728"
+				"4E63D7348A0EB65B"
+				"11E439DCF5BA3A27"
+				"7CC3B71CACB6105D"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "0A9977A61661B55F"
+			tasks: [{
+				id: "782C03A3A490A34F"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: [
+				"1CC6DB9ED1C30E01"
+				"6181D20BB69369A4"
+				"228ACDF6CA06793E"
+				"405750E6B63DC5FB"
+				"209B1D23A14BEE66"
+				"5EDDADEAB6CBDD84"
+				"68A19389568FFBD5"
+				"7FFABEA185D6D7AE"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "4635B8ECA02F3D1C"
+			tasks: [{
+				id: "537EEF04586802DC"
+				type: "checkmark"
+			}]
+			x: -18.5d
+			y: 12.0d
+		}
+		{
+			dependencies: [
+				"2041AF3AF64160CF"
+				"11396236107298BC"
+				"31173F6916BB24A1"
+				"1BE0634BCC3AC1E2"
+				"608304D711B9235D"
+				"5A143184F448A87F"
+				"22530E1C159949B7"
+				"6BC4ACD64FE5BD08"
+				"7F7F230A7C50E446"
+				"441E51A53F228B41"
+				"2001F4A746B939AB"
+				"78E67FC3A410BAD1"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			id: "522A7D1361260850"
+			tasks: [{
+				id: "5471CE1301495701"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"70B218BD7F547AD0"
+				"1DCBC43AB6F5A2E1"
+				"756868A082A10A8F"
+				"6A4847862DF1F1F9"
+				"71D735744B383FB9"
+				"2D86452A70B2011F"
+				"52B72F13F196BB32"
+				"6121D298E982F075"
+				"1E31FC73163030BB"
+				"759FC9726BFF314D"
+				"21D3163E6C10EFEC"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			id: "789FFAE40F11AE41"
+			tasks: [{
+				id: "2049D5361CD9B63B"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -7.5d
+		}
+		{
+			dependencies: [
+				"6B989FED8B0193E5"
+				"66034F6D8D98F822"
+				"3BDC10CF6948071D"
+				"619FA7873BDDEBD7"
+				"404D97263CB0B142"
+				"11209622D2FD8908"
+				"3C0659C8D68F93E8"
+				"2D15F5BE9E81D00D"
+				"2D1C986615332D54"
+				"194C7813DCA119C7"
+				"60A67022EDC3F0F7"
+				"253D67791F9A1FB4"
+				"57753E5F2AFD7A95"
+				"70B8F865D990644A"
+				"5EF5DACD87A06ECC"
+				"2350CDA074CC2F93"
+				"04E405EA2519AA82"
+				"302EB4B7BC6EB823"
+				"0DC8DD83810B1157"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			id: "1B4ED82DBE09AFA5"
+			tasks: [{
+				id: "76F662E8F4ADCBC9"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: -12.0d
+		}
+		{
+			dependencies: [
+				"2E607C1633F85752"
+				"6324D97264AC0155"
+				"2E28B9FDA7E5CED6"
+				"7A6D7D5211FE0805"
+				"7E357278161174A5"
+				"1D5C55E56A96BC0C"
+				"41136403489ECF30"
+				"4A17BC169604F219"
+				"45AE1E5A40BFF9B3"
+				"0A21708DB7AFF1E8"
+				"20B2B3F8D6A22504"
+				"2125BFC16290C828"
+				"6DEFBC7D439FE4DB"
+				"741333AB4FD735EE"
+				"0F5C325665620C60"
+				"7C50EC030DFB20A4"
+				"4DFEA4044DA07AA6"
+				"33531C3F47FE5B08"
+				"63A507B42D186C83"
+				"20E7C87EB69F9658"
+				"2C8B7F7681E6EA65"
+				"78BB9E0D0C83611E"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			id: "77B0862A6C6A8658"
+			tasks: [{
+				id: "7451E11FF8766B80"
+				type: "checkmark"
+			}]
+			x: -15.5d
+			y: -11.0d
+		}
+		{
+			dependencies: [
+				"23E6D57FD27D8B62"
+				"4F23898F03F9D217"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			id: "34CF22BD9E633E4F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "08608545BF975263"
+				table_id: 655260209269683937L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "3CA2332102954849"
+				type: "checkmark"
+			}]
+			x: -6.5d
+			y: -7.0d
+		}
+		{
+			dependencies: [
+				"6314FAB8A07557C5"
+				"51CDED1C28400912"
+				"10256A459A0E52BD"
+				"7179D1969383B6B4"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "0AED84ABD202C18E"
+			tasks: [{
+				id: "4C9A4B20FA80BCB2"
+				type: "checkmark"
+			}]
+			x: -25.5d
+			y: 12.0d
+		}
+		{
+			dependencies: [
+				"513440E608B0083F"
+				"069F0CD7F59314D7"
+				"2106BF5EB533D5F7"
+				"5644FBEFBF74FA74"
+				"59A6AF54F561AC6A"
+				"7DECC439E88FFBC2"
+				"4B42A9480B08A573"
+				"3F0367317BC660EC"
+				"33A802FDAEA9DD51"
+				"07DBF98A1C8164A3"
+				"0521EE9A07F0B983"
+				"32FC3C54F15F31F3"
+				"163727A432BCF296"
+				"227E3A405F3DE7F9"
+				"49A74B85A6B6F5CC"
+				"504E02FBFF7BBEBC"
+				"6E73B97BC99D33C2"
+				"34A8282A9B458D94"
+				"20BD913731712CF1"
+				"52D9889C14F756E9"
+				"46ECBC992AB887F3"
+				"221D88FBA7741323"
+				"3DB6F5F0F350EFA3"
+				"4966E2398FEBAF4C"
+				"2ED10C49910B15E6"
+				"5E77E21A91F6D27B"
+				"61BD3080416E12D4"
+				"1C6707A9BD2C96B5"
+				"2188ACD533DC2D3A"
+				"56820BC2D03E8426"
+				"3CAF096BED48A29B"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "1E59263D982213F4"
+			tasks: [{
+				id: "2ECDA8F62A360B9F"
+				type: "checkmark"
+			}]
+			x: -11.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["10BD22EAE5A8573D"]
+			id: "1E7E77B447F1857F"
+			tasks: [{
+				id: "6D3B038124AD5054"
+				item: { count: 1, id: "ars_elemental:advanced_prism" }
+				type: "item"
+			}]
+			x: -14.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["1E7E77B447F1857F"]
+			id: "4E4A81137F8E6032"
+			tasks: [{
+				id: "1DF9B222BF1243E9"
+				item: { count: 1, id: "ars_controle:warping_spell_prism" }
+				type: "item"
+			}]
+			x: -14.0d
+			y: 3.5d
 		}
 	]
 }
