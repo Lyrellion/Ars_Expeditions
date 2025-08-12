@@ -1,0 +1,258 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ars_hostiles"
+	group: ""
+	icon: {
+		id: "minecraft:skeleton_skull"
+	}
+	id: "09ACCF0B6E609BEC"
+	images: [{
+		height: 3.0d
+		image: "ars_nouveau:item/wilden_tribute"
+		rotation: 0.0d
+		width: 3.0d
+		x: -2.0d
+		y: 3.0d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			id: "54CD78A3D87DCD88"
+			rewards: [{
+				id: "482C763F6A7EEF8B"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				entity: "ars_nouveau:wilden_hunter"
+				id: "475FA6BD00880E84"
+				type: "kill"
+				value: 30L
+			}]
+			x: 0.5d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			id: "627537E3A3754364"
+			rewards: [{
+				id: "1194D266560D588A"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				entity: "ars_nouveau:wilden_stalker"
+				id: "2BE5C603971C1600"
+				type: "kill"
+				value: 30L
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			id: "00155C5113A8D5D3"
+			rewards: [{
+				id: "11B1182F26C1F9CE"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				entity: "ars_nouveau:wilden_guardian"
+				id: "1F41FB55F2110812"
+				type: "kill"
+				value: 30L
+			}]
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "ars_nouveau:wilden_tribute"
+			}
+			id: "56C1C062A6639FDC"
+			rewards: [
+				{
+					id: "3DC7FE6D2B28D4FB"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 5
+					id: "58CBD9E129925DC1"
+					item: {
+						count: 1
+						id: "ars_nouveau:wilden_tribute"
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				entity: "ars_nouveau:wilden_boss"
+				id: "414EBA6A425A297E"
+				type: "kill"
+				value: 5L
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			id: "597DE6AF6ACCD88F"
+			rewards: [{
+				id: "4CF899D6DF6B579D"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				entity: "ars_fauna:illusibuncle"
+				id: "589541639DFE1D4F"
+				type: "kill"
+				value: 20L
+			}]
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			id: "3B50442514205688"
+			rewards: [{
+				id: "4BB0C5471330A3B3"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				entity: "ars_fauna:tentabuncle"
+				id: "4D6F7CE070AC8BE2"
+				type: "kill"
+				value: 20L
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			id: "1566720ED8504044"
+			rewards: [{
+				id: "3A2BDDB226A628FF"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "ars_fauna:eyebuncle"
+				id: "77E35A59101B7141"
+				type: "kill"
+				value: 5L
+			}]
+			x: -6.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			id: "195903C9DA3DF527"
+			rewards: [{
+				id: "65E419455198B2A9"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				entity: "ars_fauna:dark_drygmy"
+				id: "4CE94C19D5C4AE69"
+				type: "kill"
+				value: 20L
+			}]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			id: "344D7C41F80CFB49"
+			rewards: [{
+				id: "27647F26102CD024"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				entity: "ars_fauna:vexbuncle"
+				id: "3733E00EDAD86302"
+				type: "kill"
+				value: 20L
+			}]
+			x: -5.0d
+			y: 3.0d
+		}
+		{
+			id: "53A09F2EF7F37E04"
+			rewards: [{
+				id: "0537352FE290BB02"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "ars_fauna:giant_carnivorous_starbuncle"
+				id: "4F0BA590DEF28C42"
+				type: "kill"
+				value: 10L
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			id: "02AB1A10B518A93E"
+			rewards: [{
+				id: "6D677E73C022C6FF"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				entity: "ars_fauna:skelebuncle"
+				id: "1A809B7009079EF7"
+				type: "kill"
+				value: 100L
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "0ED640EBA349ED76"
+			rewards: [{
+				id: "25D21E2FC03E0888"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				entity: "ars_fauna:shadowbuncle"
+				id: "2C18E6AD19AA3A88"
+				type: "kill"
+				value: 30L
+			}]
+			x: -4.5d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			id: "0CA9A53CE7AB076F"
+			rewards: [{
+				id: "568AB5698A60B9F5"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				entity: "ars_fauna:zombuncle"
+				id: "5C1EC402F5D6A690"
+				type: "kill"
+				value: 100L
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+	]
+}

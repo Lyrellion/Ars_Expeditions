@@ -31,6 +31,11 @@
 				id: "the_afterdark:teleport_catalyst"
 			}
 			id: "04FEF50F05174921"
+			rewards: [{
+				id: "60EE8DDBA8D60594"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "the_afterdark:afterdark"
 				id: "0DA0E93CFE77738F"
@@ -45,6 +50,11 @@
 				id: "ars_monde_attuner:ars_monde_attuner"
 			}
 			id: "1F851C0C61345743"
+			rewards: [{
+				id: "6003FD716D1D10BB"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "ars_monde:ars_monde"
 				id: "68BCCEE925906EA2"
@@ -59,6 +69,11 @@
 				id: "astral_dimension:astral_eye"
 			}
 			id: "2BDE3DB7C86A0E58"
+			rewards: [{
+				id: "30B4F57535640A33"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "astral_dimension:astral_dimension"
 				id: "153565726CAD941D"
@@ -73,6 +88,11 @@
 				id: "dimdungeons:block_portal_keyhole"
 			}
 			id: "462D492C012501C5"
+			rewards: [{
+				id: "6857E7F9BC0701B3"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "dimdungeons:dungeon_dimension"
 				id: "23B34837A9E5EA0B"
@@ -87,6 +107,11 @@
 				id: "bygone:bygone_portal_frame_block"
 			}
 			id: "509E1EE9F6494818"
+			rewards: [{
+				id: "03D45C29BA716A07"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "bygone:bygone"
 				id: "6EAD80732D79B807"
@@ -102,6 +127,11 @@
 			}
 			id: "1FA902C56752286F"
 			max_completable_dependents: 1
+			rewards: [{
+				id: "477C7E1EF1C9C69D"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [
 				{
 					dimension: "ephemeral_dimensions:basalt_deltas"
@@ -152,6 +182,11 @@
 				id: "iceandfire:dragon_skull_fire"
 			}
 			id: "50751E08AEDF0C13"
+			rewards: [{
+				id: "7B20FCCA9F49FBE4"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "iceandfire:dread_land"
 				id: "2E3EE4AE5B4D2B22"
@@ -166,6 +201,11 @@
 				id: "minecraft:blue_ice"
 			}
 			id: "6CB1C41265ECC1FC"
+			rewards: [{
+				id: "5F4C0910547B4729"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "frostrealm:frostrealm"
 				id: "1BED94FF1EC3F618"
@@ -180,6 +220,11 @@
 				id: "gaiadimension:keystone_block"
 			}
 			id: "20BDF3BE037CC67A"
+			rewards: [{
+				id: "6C4B28C3EA44A267"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "gaiadimension:gaia_dimension"
 				id: "400B5CA50C177AEF"
@@ -194,6 +239,11 @@
 				id: "landsoficaria:greek_fire_grenade"
 			}
 			id: "399AEC754B4B9960"
+			rewards: [{
+				id: "6180890C92987C78"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [
 				{
 					dimension: "landsoficaria:icaria"
@@ -215,6 +265,11 @@
 				id: "minecraft:diamond_pickaxe"
 			}
 			id: "7A72F2CD63ABC3F0"
+			rewards: [{
+				id: "5F3D9C91DAF9E3BC"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "allthemodium:mining"
 				id: "46DA53C9815BDE6A"
@@ -229,6 +284,11 @@
 				id: "deeperdarker:heart_of_the_deep"
 			}
 			id: "21B47324FDC48549"
+			rewards: [{
+				id: "50C36BCCEFFBA779"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "deeperdarker:otherside"
 				id: "00D2F05AC2D29A38"
@@ -244,6 +304,11 @@
 			}
 			id: "1D24033D4ADD7973"
 			max_completable_dependents: 1
+			rewards: [{
+				id: "493FA9B479D8F6B0"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [
 				{
 					dimension: "irons_spellbooks:pocket_dimension"
@@ -265,6 +330,11 @@
 				id: "minecraft:sand"
 			}
 			id: "3E535503781B2028"
+			rewards: [{
+				id: "56BF392FCF0EC925"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "pharaohs_legacy__demension:saharah"
 				id: "181B3FA26ACD9061"
@@ -279,6 +349,11 @@
 				id: "eternal_starlight:book"
 			}
 			id: "5026E0E216FEC798"
+			rewards: [{
+				id: "7723CB3C94624761"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "eternal_starlight:starlight"
 				id: "31CBEE927D26A6F4"
@@ -293,6 +368,11 @@
 				id: "test:candy_cane"
 			}
 			id: "0467F7820984EBF9"
+			rewards: [{
+				id: "7A7451CB69C9CA79"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "test:sweetland"
 				id: "61A892D9FF834F95"
@@ -307,6 +387,11 @@
 				id: "aether:victory_medal"
 			}
 			id: "5892B28C88DCDB45"
+			rewards: [{
+				id: "362F4331B6B61DFF"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "aether:the_aether"
 				id: "6CA5AC9B5755CC79"
@@ -321,6 +406,11 @@
 				id: "allthemodium:teleport_pad"
 			}
 			id: "6B7B83088604F908"
+			rewards: [{
+				id: "53DCCBEBC92AFF1F"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "allthemodium:the_beyond"
 				id: "6A95C85255501044"
@@ -335,6 +425,11 @@
 				id: "minecraft:bee_nest"
 			}
 			id: "59CFBF942099CC2E"
+			rewards: [{
+				id: "279953DBB9990F06"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "the_bumblezone:the_bumblezone"
 				id: "66C81769C6E046AB"
@@ -349,6 +444,11 @@
 				id: "the_cat_dimension:catnipitem"
 			}
 			id: "3C4F8578089116CD"
+			rewards: [{
+				id: "1B74C89A15FAD5C4"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "the_cat_dimension:the_cat_dimension"
 				id: "7EACBF1F95427774"
@@ -363,6 +463,11 @@
 				id: "minecraft:dragon_head"
 			}
 			id: "4E3C75EF763A748E"
+			rewards: [{
+				id: "4C97960FEE5FBF8B"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "minecraft:the_end"
 				id: "26A8D1AAA1D4A7AC"
@@ -377,6 +482,11 @@
 				id: "minecraft:piglin_head"
 			}
 			id: "55398D003428E41C"
+			rewards: [{
+				id: "2220564BF5536AEC"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "minecraft:the_nether"
 				id: "609EC56E6CD09DEA"
@@ -391,6 +501,11 @@
 				id: "allthemodium:piglich_heart"
 			}
 			id: "24FA87BBFFB3EB9B"
+			rewards: [{
+				id: "2BACDD0412C49DB8"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "allthemodium:the_other"
 				id: "5BA5F9541486190E"
@@ -405,6 +520,11 @@
 				id: "macabre:crystalized_blood"
 			}
 			id: "610020E4AADD43B6"
+			rewards: [{
+				id: "31FCAB6E1E5A0A8E"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "macabre:the_pit"
 				id: "3B389D8DF84FD054"
@@ -419,6 +539,11 @@
 				id: "starlandsdimension:the_starlands"
 			}
 			id: "7E6079689796E21F"
+			rewards: [{
+				id: "6DCAA7EA4F4CA2A0"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "starlandsdimension:the_starlands"
 				id: "411213F3F41317E4"
@@ -433,6 +558,11 @@
 				id: "tropicraft:pineapple"
 			}
 			id: "689BD0A749F10FE9"
+			rewards: [{
+				id: "54835785D1461E41"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "tropicraft:tropics"
 				id: "25E213488626988A"
@@ -447,6 +577,11 @@
 				id: "minecraft:poppy"
 			}
 			id: "3623CD77EBF0871F"
+			rewards: [{
+				id: "1BC5E52544DBC25C"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "twilightforest:twilight_forest"
 				id: "29E3C17486DCFA71"
@@ -461,6 +596,11 @@
 				id: "undergarden:catalyst"
 			}
 			id: "638AC6E912A312E8"
+			rewards: [{
+				id: "19535B446D9306DE"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "undergarden:undergarden"
 				id: "2738CA259E4FF2E0"
@@ -471,12 +611,17 @@
 		}
 		{
 			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "bottomless_remastered:bottomless_portal_frame"
+			}
 			id: "0161BD488B34C6D4"
+			rewards: [{
+				id: "45F17DA248965C2C"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "bottomless_remastered:the_bottomless"
-				icon: {
-					id: "bottomless_remastered:bottomless_portal_frame"
-				}
 				id: "7879B3D0B20F2B2C"
 				type: "dimension"
 			}]
@@ -485,12 +630,17 @@
 		}
 		{
 			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "bottomless_remastered:shadeless_portal_frame"
+			}
 			id: "2AB56347A2A3F63C"
+			rewards: [{
+				id: "5F3D8E47A4A98620"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "bottomless_remastered:the_shadeless"
-				icon: {
-					id: "bottomless_remastered:shadeless_portal_frame"
-				}
 				id: "63171A22AFB037B2"
 				type: "dimension"
 			}]
@@ -499,12 +649,17 @@
 		}
 		{
 			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "bottomless_remastered:enchanted_portal_frame"
+			}
 			id: "54A374EC3B6BB7A1"
+			rewards: [{
+				id: "757D70E204463E2F"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "bottomless_remastered:the_enchantless"
-				icon: {
-					id: "bottomless_remastered:enchanted_portal_frame"
-				}
 				id: "1CA4A26EC6C7856D"
 				type: "dimension"
 			}]
@@ -513,17 +668,100 @@
 		}
 		{
 			dependencies: ["724C2D04CC9CF161"]
+			icon: {
+				id: "bottomless_remastered:experience_portal_frame"
+			}
 			id: "6BB9D68A75A8E9ED"
+			rewards: [{
+				id: "2FD9A3A0C9EA9494"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "bottomless_remastered:the_expless"
-				icon: {
-					id: "bottomless_remastered:experience_portal_frame"
-				}
 				id: "4240FC1601183BDD"
 				type: "dimension"
 			}]
 			x: -3.0d
 			y: -3.5d
+		}
+		{
+			dependencies: [
+				"724C2D04CC9CF161"
+				"3C382646FDA833D0"
+			]
+			id: "6EA300439DA3EDF5"
+			rewards: [{
+				id: "2018BA7729A57A54"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				dimension: "atlantis:atlantis"
+				icon: {
+					id: "minecraft:trident"
+				}
+				id: "4F330B12AC7916FB"
+				type: "dimension"
+			}]
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"7E6079689796E21F"
+				"399AEC754B4B9960"
+				"20BDF3BE037CC67A"
+				"54A374EC3B6BB7A1"
+				"04FEF50F05174921"
+				"5892B28C88DCDB45"
+				"0161BD488B34C6D4"
+				"55398D003428E41C"
+				"610020E4AADD43B6"
+				"1FA902C56752286F"
+				"0467F7820984EBF9"
+				"2BDE3DB7C86A0E58"
+				"21B47324FDC48549"
+				"462D492C012501C5"
+				"5026E0E216FEC798"
+				"3E535503781B2028"
+				"689BD0A749F10FE9"
+				"7A72F2CD63ABC3F0"
+				"509E1EE9F6494818"
+				"4E3C75EF763A748E"
+				"638AC6E912A312E8"
+				"24FA87BBFFB3EB9B"
+				"3C4F8578089116CD"
+				"59CFBF942099CC2E"
+				"2AB56347A2A3F63C"
+				"50751E08AEDF0C13"
+				"6CB1C41265ECC1FC"
+				"724C2D04CC9CF161"
+				"6EA300439DA3EDF5"
+				"6BB9D68A75A8E9ED"
+				"1D24033D4ADD7973"
+				"3623CD77EBF0871F"
+				"1F851C0C61345743"
+				"6B7B83088604F908"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: {
+				id: "ars_additions:wayfinder"
+			}
+			id: "5D6F6263EE5AAEBD"
+			rewards: [{
+				id: "5555A13B950CD2B2"
+				type: "xp_levels"
+				xp_levels: 100
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "5FB00CADAD476EA9"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: -5.0d
 		}
 	]
 }

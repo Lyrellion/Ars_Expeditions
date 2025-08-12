@@ -9,6 +9,7 @@
 	quest.00D209EE7F90AA19.title: "He's Got A Knife!"
 	quest.015BCC16A36B6BEA.quest_desc: ["Ars Ocultas allows demons summoned from Occultism to retain their functionality while in jars and also prevents those demons with timers on their existence from despawning."]
 	quest.015BCC16A36B6BEA.title: "Jarring Demons"
+	quest.0161BD488B34C6D4.title: "I've Been Falling For Thirty Minutes"
 	quest.01B058EABA0A2A5C.quest_desc: ["Source Berry bushes can be found growing naturally in the Overworld and will likely be one of your earliest sources of Source, the resource used to power most of Ars Nouveau's automation and crafting."]
 	quest.01B058EABA0A2A5C.title: "The Snozzberries taste like Snozzberries"
 	quest.02AB1A10B518A93E.quest_desc: ["Ars Fauna Skelebuncles are functionally identical to skeletons - but without the bows."]
@@ -43,7 +44,7 @@
 	quest.0A7E36D783678446.quest_desc: ["With Ars Elemancy, you can further fuse dual element armor sets into a quad element set that grants the perks of all 4 Elemental armor sets."]
 	quest.0A7E36D783678446.title: "Mastering the Elements"
 	quest.0A9977A61661B55F.quest_desc: ["You have succesfully acquired all of the Armor Threads."]
-	quest.0A9977A61661B55F.title: "Master Tailor"
+	quest.0A9977A61661B55F.title: "Arcane Tailor"
 	quest.0AB94EC8C95BB8AA.quest_desc: ["Ars Artillery adds decorative runestones that can be used as decorative blocks, or can be crafted into deployable turrets."]
 	quest.0AB94EC8C95BB8AA.title: "Decorative Stones"
 	quest.0AED84ABD202C18E.quest_desc: ["You have successfully found all of the magical locations in Ars Nouveau."]
@@ -289,6 +290,7 @@
 	quest.3B50442514205688.title: "Definitely Not a Mind Flayer"
 	quest.3C273BE2643FDF79.quest_desc: ["Ars Nouveau Flavors and Delight adds a number of recipes for food and drinks based on Ars Nouveau materials."]
 	quest.3C273BE2643FDF79.title: "J-E-L-L-O"
+	quest.3C382646FDA833D0.title: "Should I Leave an Offering?"
 	quest.3C4F8578089116CD.title: "Meow."
 	quest.3E526DB26318125D.quest_desc: ["Ars Additions's Warp Index can be upgraded to a Stabilized Warp Index, which allows for crossdimensional access to the linked Storage Lectern."]
 	quest.3E526DB26318125D.title: "REALLY Remote Library Access"
@@ -360,6 +362,7 @@
 	quest.4673FECAE67CCF06.quest_desc: ["Ars Artillery adds upgradable deployable turrets that will fire on hostile creatures in range.  Each magic school has an associated turret with specific effects based on the school."]
 	quest.4673FECAE67CCF06.title: "Set Up A Perimeter..."
 	quest.46CF3F4155D0FAD4.quest_desc: ["Caster Tomes contain premade spells, designed by Ars developers and contributors, to showcase some of the possibilities of what you can do with Ars magic.  These Tomes allow you to cast the spell contained within at half the usual mana cost, or your full mana bar, whichever is lower."]
+	quest.46CF3F4155D0FAD4.title: "Membership Has Its Privileges"
 	quest.472CCBBB50899BC3.quest_desc: ["The Source Spawner, from Ars Additions, uses Source to spawn mobs by copying them from nearby containment jars.  The Source cost will vary with the power of the creature(s) being spawned."]
 	quest.4790124DEE3DCCE2.quest_desc: ["The Dominion Wand is an essential tool for setting up Ars automation by allowing you to give the necessary commands to Ars creatures and devices to make them work."]
 	quest.4790124DEE3DCCE2.title: "Speak Softly, And Carry A Big Stick"
@@ -450,6 +453,7 @@
 	quest.56C65EDEEAB7D170.title: "Itty, Bitty Living Space"
 	quest.56CB8EE811C82C77.quest_desc: ["Infused Turrets from Ars Elemental cast spells as though cast with the associated Spell Focus equipped.  If the spell contains a glyph of the appropriate school, the spell is dicounted as well."]
 	quest.5892B28C88DCDB45.quest_desc: ["Glowstone. Water."]
+	quest.5892B28C88DCDB45.title: "A Hostile Paradise"
 	quest.58AD7BF7F0D9A9B4.quest_desc: ["Focuses enhance spells of the type they are associated with.  Refer to the Tattered Tome for details on each focus."]
 	quest.58AD7BF7F0D9A9B4.title: "Choosing a Focus"
 	quest.597936AABC51BE5A.quest_desc: ["A Panda in a jar will occasionally sneeze out a Slimeball."]
@@ -473,6 +477,7 @@
 	quest.5B7DE09E6455AD60.quest_desc: ["Infused Turrets from Ars Elemental cast spells as though cast with the associated Spell Focus equipped.  If the spell contains a glyph of the appropriate school, the spell is dicounted as well."]
 	quest.5D641B5550A03EFC.quest_desc: ["Arcane Pedestals and Platforms are single item inventories that are used for many things in Ars Nouveau."]
 	quest.5D641B5550A03EFC.title: "A Place for Everything, and Everything In Its Place"
+	quest.5D6F6263EE5AAEBD.title: "I've Seen Things You People Wouldn't Believe"
 	quest.5EDDADEAB6CBDD84.quest_desc: ["The Whirlisprig familiar makes Earth glyphs cheaper to cast and grants bonus saturation from consumed food."]
 	quest.5EDDADEAB6CBDD84.title: "Ars Flora"
 	quest.5F56F43DC5FBF2B4.quest_desc: ["A Blaze in a jar will act as a bright light source."]
@@ -540,6 +545,7 @@
 	quest.6CB1C41265ECC1FC.title: "Hope You Brought a Jacket"
 	quest.6DEFBC7D439FE4DB.quest_desc: ["Shellbuncles can be found wherever Seabuncles are found, and will defend themselves with deadly tridents if threatened."]
 	quest.6DEFBC7D439FE4DB.title: "Find a Shellbuncle"
+	quest.6EA300439DA3EDF5.title: "20,000 Leagues Under the Sea"
 	quest.6ED893049550F1DD.quest_desc: ["There are a wide variety of unique enchanted items that can be crafted using the Enchanting Apparatus in Ars Nouveau and its addons.  Try making these items - and more.  Refer to the Tattered Tome for specifics on the effects of each item."]
 	quest.70A9C631A4F447F1.quest_desc: ["The Mycelial Sourcelink converts edible items into source.  It gives extra source from magical foods, including sourceberries and archfruits, and is efficient enough to carry you into the late game with a proper setup."]
 	quest.70A9C631A4F447F1.title: "Source From Food"
@@ -557,7 +563,6 @@
 	quest.741333AB4FD735EE.title: "Find a Siren"
 	quest.765A96CC3E6CFF7A.quest_desc: ["The Enchanter's Bangle has a chance to boost the damage of your cast spells, and is the main material for crafting more powerful bangles."]
 	quest.765A96CC3E6CFF7A.title: "Fancy Jewelry"
-	quest.77B0862A6C6A8658.title: "Naturalist"
 	quest.77BF4C9E32ECA35F.quest_desc: [
 		"Not Enough Glyphs adds the Spell Binder - an alternative to the standard Spell Book that can hold up to 25 spells in the form of Caster Tomes or Spell Parchments."
 		""
@@ -600,6 +605,7 @@
 	quest.7A72F2CD63ABC3F0.title: "Hi Ho, Hi Ho, It's Off to Work We Go"
 	quest.7AE99B82FF120DD6.quest_desc: ["The Ritual Brazier Relay can be linked to one (or more) nearby rituals, allowing for remote automation of a ritual site or for having multiple rituals active in one spot."]
 	quest.7AE99B82FF120DD6.title: "Remote Rituals"
+	quest.7B16CD210F85662C.quest_desc: ["You have encountered all of the non-hostile creatures from Ars Nouveau and its addons."]
 	quest.7B9998A64A9513C1.quest_desc: ["All the Arcanist Gear adds advanced armor sets that significantly increase the power level of the wearer.  Originally created for use in All the Mods packs."]
 	quest.7B9998A64A9513C1.title: "Sourceror Supreme"
 	quest.7BD5AFFF91797439.quest_desc: ["A Breeze in a jar will fire a wind charge if powered by redstone."]
@@ -619,6 +625,22 @@
 	quest.7FB3016482393FCD.title: "Bling"
 	quest.7FFABEA185D6D7AE.quest_desc: ["The Siren familiar buffs the damage of Water spells and applies the Dolphin's Grace buff to the player while in water."]
 	quest.7FFABEA185D6D7AE.title: "Under the Sea"
+	reward.017EA589BD3C1208.title: "Permanent +5% Mana Regen"
+	reward.06CF4520CE284E83.title: "Permanent +5 Warding"
+	reward.0E094FD139224190.title: "Permanent +5% Armor Value"
+	reward.11285759C702CDE3.title: "Permanent +10% Max Mana"
+	reward.161E37F18E466513.title: "Permanent +5% Dodge Chance"
+	reward.1EAE10465279D067.title: "Permanent +100% Experience Gained"
+	reward.1F8110CE4D62F7CF.title: "Permanent +1 to Pickup Range"
+	reward.2A79CF0B3227E49A.title: "Permanent +10% Lifesteal"
+	reward.3879EDBA365BD27A.title: "Permanent 5% Mana Discount"
+	reward.4632E83609D035E1.title: "+1 Universal Curio Slot"
+	reward.4BE4A973023550C9.title: "Permanent +5% to Max Health"
+	reward.53E518AE6F44C674.title: "Permanent +3 Luck"
+	reward.555C914A235FC140.title: "+1 Universal Curio Slot"
+	reward.6A5FDDEACFD1C12C.title: "Permanent +1% Life Steal"
+	reward.7275A85E09806A02.title: "Permanent +5% Movement Speed"
+	reward.7A733976F92CAE46.title: "Permanent +5% Health"
 	reward_table.0917F3B048F7B6E1.title: "Master of Elements"
 	task.0147DE63154A66AB.title: "Elemental Leggings"
 	task.01A45CC42E37CC37.title: "Elemancy Hat"
@@ -636,6 +658,7 @@
 	task.1574EABD58AF3171.title: "Elemancy Leggings"
 	task.1701EE56179FE14C.title: "Budding Certus Blocks"
 	task.188106718B298BE4.title: "Craft an Ars Jelly dish"
+	task.198F774874E7657E.title: "Nature Lover"
 	task.1BD8368AF3E9B3BE.title: "Dual Bangles"
 	task.1CA4A26EC6C7856D.title: "Enchanted"
 	task.203974970E261ABA.title: "Find a Nexus Tower"
@@ -650,13 +673,14 @@
 	task.563CE038FBBD2E33.title: "Advanced Wands"
 	task.5CAE88AC1F068094.title: "Find a Wilden Den (any type)"
 	task.5E4AF2A936E05EF0.title: "Any Ars Artillery Runestone"
+	task.5FB00CADAD476EA9.title: "Dimensionalist"
 	task.6391755BA5520F7E.title: "Elemental Hat"
 	task.6BA7D0A9920106CE.title: "Advanced Foci"
 	task.6D24C4EF0D0B5153.title: "Golem Charms"
 	task.6DA858430332C673.title: "Menagerie Keeper"
+	task.71DBB91DD57BF860.title: "Master of Arcana"
 	task.776B7D57FAE5B381.title: "Find a Ruined Portal"
 	task.786001B1ACE554A4.title: "Elemancy Robes"
-	task.7879B3D0B20F2B2C.title: "I've Been Falling For 30 Minutes"
 	task.7BD075D40F916A30.title: "Tablet of Conjure Island"
 	task.7CAD343C217CB25F.title: "Enchanted Items"
 }
